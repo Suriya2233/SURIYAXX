@@ -32,6 +32,49 @@
          "name": "SG-TRUE-FREE02",
          "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-02-T.ovpn"
       }
+{
+         "name": "SG-AIS-FREE03",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-03-A.ovpn"
+      }
+,
+{
+         "name": "SG-DTAC-FREE03",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-03-D.ovpn"
+      }
+,
+{
+         "name": "SG-TRUE-FREE03",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-03-T.ovpn"
+      }
+,
+{
+         "name": "SG-AIS-FREE04",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-04-A.ovpn"
+      }
+,
+{
+         "name": "SG-DTAC-FREE04",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-04-D.ovpn"
+      }
+,
+{
+         "name": "SG-TRUE-FREE04",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-04-T.ovpn"
+      }
+{
+         "name": "SG-AIS-FREE05",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-05-A.ovpn"
+      }
+,
+{
+         "name": "SG-DTAC-FREE05",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-05-D.ovpn"
+      }
+,
+{
+         "name": "SG-TRUE-FREE05",
+         "url": "https://raw.githubusercontent.com/Suriya2233/SURIYAXX/main/FREE-SG-05-T.ovpn"
+      }
 
 
 
@@ -48,5 +91,5 @@
 
 \n\nเวอร์ชั่นไฟล์:1",
 "title":"New Update File" ,
-   "version":1
+   "version":2
 }
